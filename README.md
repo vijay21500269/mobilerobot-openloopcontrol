@@ -73,6 +73,7 @@ if name == 'main':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
+![initial position](https://github.com/vijay21500269/mobilerobot-openloopcontrol/blob/main/initial%20position.jpeg)
 
 
 Insert image here
